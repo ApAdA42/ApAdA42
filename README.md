@@ -1,5 +1,6 @@
-## Hi there 👋
-
+I'm a student.
+I'm currently learning python and mySQL.
+I'm finishing high-school.
 <!--
 **ApAdA42/ApAdA42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
