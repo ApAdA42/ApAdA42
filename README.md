@@ -3,6 +3,10 @@
 **FullStack Developer**
 
 My name is Jorge Victor, I'm 17 years old and live in Fortaleza - Ceará - Brazil
+
+
+*PYTHON, HTML, CSS, MYSQL*
+
 <!--
 **ApAdA42/ApAdA42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
